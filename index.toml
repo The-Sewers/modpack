@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
-metafile = true
-
-[[files]]
 file = "config/Advancedperipherals/general.toml"
 hash = "d27021a1aa4dfd8f8ceb0d8d00d275b5291c44596cc5211f133f888fada3ab57"
 
@@ -1387,3 +1382,8 @@ hash = "3ad6379d733178b42278db9a3c2505e519e7f69f94f839a291a36964948651e3"
 [[files]]
 file = "servers.dat"
 hash = "df68711102c18ce710aab688f3cbb4a40d0ccefc4d0aa056af900029bb8af0fa"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
+metafile = true
