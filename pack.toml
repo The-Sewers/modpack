@@ -1,0 +1,13 @@
+name = "sewers.cc"
+author = "fabra"
+version = "1.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2bc10910eba70af0bb3e62c293fbfcf19ea515f34c60a0031289dcb5a0b2f86b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.172"

@@ -1,0 +1,13 @@
+name = "PronounUSA"
+filename = "pronounmc-neoforge-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6aba96c69b80111df3b76b0c0e22eb0b6ee452eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5665890
+project-id = 1091373

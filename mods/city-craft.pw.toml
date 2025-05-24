@@ -1,0 +1,13 @@
+name = "City Craft"
+filename = "CityCraft-1.21-(v.2.4.0-NEO).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfbdbdbe4aca7259cd42b91cfc0d03b3229c5916"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6444468
+project-id = 985069

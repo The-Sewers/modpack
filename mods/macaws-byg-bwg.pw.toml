@@ -1,0 +1,13 @@
+name = "Macaw's Oh The Biomes You'll Go / We've Gone"
+filename = "mcwbyg-neoforge-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac797fcc4a1b070b3c8bcd94ab9661876b920fb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6416537
+project-id = 535960
