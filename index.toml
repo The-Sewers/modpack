@@ -742,7 +742,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "datapacks/scc_rom.zip"
-hash = "020c2a95df30d8f71f76b37ee52897d7aa186efaf74ef366f588db9ec5453616"
+hash = "26a58bd055afb6b0e7965f1cc85c279d7e41f1c0efbe6d3a832a28b608f09017"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
