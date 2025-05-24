@@ -1321,11 +1321,6 @@ hash = "f9e13b44a817b078be83092f2a5e4aa3dc13bcce428101b52159a2703798a1ed"
 metafile = true
 
 [[files]]
-file = "mods/stone-zone.pw.toml"
-hash = "a7954e6329fdf7584996c129fb3a5483f44030779a01eac08a15400bd3c07919"
-metafile = true
-
-[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "14890ae5d8a1d16f4e61b566e662e8bf191a47f0ce70b3cbac771190038eff9a"
 metafile = true
