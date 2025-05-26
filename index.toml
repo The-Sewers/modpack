@@ -854,6 +854,11 @@ hash = "3010b495fe348272f66e11617aefd064372979efc6c295502feeb8ecc7fcd3fb"
 metafile = true
 
 [[files]]
+file = "mods/create-balanced-recipes.pw.toml"
+hash = "7ea513d33b8a38e6f6e67b80a3974764a4b3725c21891c713b58d11da42e949e"
+metafile = true
+
+[[files]]
 file = "mods/create-better-villager.pw.toml"
 hash = "1d73a27e8893a1e5697917247474f2fd8ab73ebcf47722929f7e316224080613"
 metafile = true
@@ -884,23 +889,18 @@ hash = "494923c2d36713d65ea80ac37513a4b445066b6c611c54e078e2b15f5c627d66"
 metafile = true
 
 [[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "2af9229718d9edb1eaa4b88fac0063ab2f5f7ba7650a4efa5f0a8e6ce25549cd"
+metafile = true
+
+[[files]]
 file = "mods/create-misc-and-things.pw.toml"
 hash = "785e070696bd8aa550d0bb2fab16144b48670cc65a78dbedd7ab32a41f05e6b7"
 metafile = true
 
 [[files]]
-file = "mods/create-more-sandpapers.pw.toml"
-hash = "c8af0c27930ddb2dc60fe2775178cc383f72e304277c098bfe2114c292501c77"
-metafile = true
-
-[[files]]
 file = "mods/create-reforged-foundations.pw.toml"
 hash = "c720afb5ae2b6b21f5d094fe1d9d70a30ce9fc1177aff96b71d47514878be53a"
-metafile = true
-
-[[files]]
-file = "mods/create-stones.pw.toml"
-hash = "3c671eb9c049f9cc2863d44754dc4695a7d74874c73b1daafbad85482de9934c"
 metafile = true
 
 [[files]]
