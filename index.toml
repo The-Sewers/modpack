@@ -859,6 +859,11 @@ hash = "1d73a27e8893a1e5697917247474f2fd8ab73ebcf47722929f7e316224080613"
 metafile = true
 
 [[files]]
+file = "mods/create-ccbr.pw.toml"
+hash = "b2b7a901e7e24f6fbd2f2236320c9c2df88aa30f04a7eb643d723010b173b883"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "9ead766d99f2830e1f310fe5a6139bfcd4d8187bbafd65ee9c2f972bc20b3244"
 metafile = true
@@ -884,13 +889,33 @@ hash = "785e070696bd8aa550d0bb2fab16144b48670cc65a78dbedd7ab32a41f05e6b7"
 metafile = true
 
 [[files]]
+file = "mods/create-more-sandpapers.pw.toml"
+hash = "c8af0c27930ddb2dc60fe2775178cc383f72e304277c098bfe2114c292501c77"
+metafile = true
+
+[[files]]
 file = "mods/create-reforged-foundations.pw.toml"
 hash = "c720afb5ae2b6b21f5d094fe1d9d70a30ce9fc1177aff96b71d47514878be53a"
 metafile = true
 
 [[files]]
+file = "mods/create-stones.pw.toml"
+hash = "3c671eb9c049f9cc2863d44754dc4695a7d74874c73b1daafbad85482de9934c"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "885a5e25d8c2d77eefb8b29629019e821e892e7ee1923fb649d3fbf2b69cf1dc"
+metafile = true
+
+[[files]]
 file = "mods/create-ultimine.pw.toml"
 hash = "6bb51c675652827e31a03c69800f5f391a2faa170b09d4c7982607c4308c1740"
+metafile = true
+
+[[files]]
+file = "mods/create-vibrant-vaults.pw.toml"
+hash = "960645d7f385081b108208e58bbbdfc6b93288b7bd7da90e6f229a57b237234a"
 metafile = true
 
 [[files]]
@@ -1368,6 +1393,11 @@ metafile = true
 [[files]]
 file = "mods/yeetusexperimentus.pw.toml"
 hash = "7c6f2e38a6932f846738747fd6cff3af239748a84e89350f6c967c8ac72a65d6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unnamed-create-computers-resource-pack.pw.toml"
+hash = "e8939b6419da110fb6505a46f737a6362c00699a3abee8bb75af46755eca049d"
 metafile = true
 
 [[files]]
