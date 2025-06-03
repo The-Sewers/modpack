@@ -830,11 +830,6 @@ hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "556675c72dc80aede6fdd765981971811b7e4a0c257754dc4313a901b6c05209"
-metafile = true
-
-[[files]]
 file = "mods/city-craft.pw.toml"
 hash = "4ea4ae23a1931366516c47e9986bd4c07bb49a7aed1478da0971098f6173b1ce"
 metafile = true
@@ -972,6 +967,11 @@ metafile = true
 [[files]]
 file = "mods/create_oxidized-0.1.3.jar"
 hash = "9221f4caa70036d05a04e83e6b57844fa03b60cdef6ade1491c37c0f7800d063"
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "a60cc579fed71b89defa04f55e7f275a74df63c48b316655b593514cfcced110"
+metafile = true
 
 [[files]]
 file = "mods/croptopia.pw.toml"
@@ -1225,6 +1225,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
+metafile = true
+
+[[files]]
+file = "mods/littletiles.pw.toml"
+hash = "400b493d4277ce3081b2a401a510cab7eb3633f869d4a7f795a2e92720edbb3d"
 metafile = true
 
 [[files]]
