@@ -901,6 +901,16 @@ file = "datapacks/scc_rom.zip"
 hash = "26a58bd055afb6b0e7965f1cc85c279d7e41f1c0efbe6d3a832a28b608f09017"
 
 [[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "179e249897d4dde4375ee394749a05d300da913f368f2a4110b8f9996e6125ed"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "08d5b42c63b13a05a5ad962fb2782126b6a1dbbd76ef383608da7e39009f8b06"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "0fbf73b1472bd451d4a26d216e1f96194a5f7dc789760865df7fedbf46bfbfdf"
 metafile = true
@@ -1008,6 +1018,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+hash = "0e373f9f7440ddb33d4e86e7f5bdb019ec622885e0f07c9a349da6d87f3a4e5a"
 metafile = true
 
 [[files]]
@@ -1167,11 +1182,6 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
-metafile = true
-
-[[files]]
-file = "mods/curios.pw.toml"
-hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
@@ -1344,6 +1354,11 @@ hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
 metafile = true
 
 [[files]]
+file = "mods/icarus.pw.toml"
+hash = "2f46012304099108d23658c07c01680da835adf4726533bc35cf93ec3898eb40"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "f0b46153b8357899eb45c1c1991da11d5ae3dab28dbc92e6b8f49dbe2967c464"
 metafile = true
@@ -1509,6 +1524,11 @@ hash = "8dd1efd984ad97b7ddd040c6f8d8306a1a3e43b6c4d5597f2344559c6e83a458"
 metafile = true
 
 [[files]]
+file = "mods/network-protocol-disconnect-netprodis.pw.toml"
+hash = "30f33d57d6fd73beda24a271c25b7c80002e255adc9039ea324d325d4d594857"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
 metafile = true
@@ -1583,6 +1603,11 @@ hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
@@ -1610,6 +1635,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7fca1d6e1709859d156a27a45c6dfd85651f6aa87482dbd64d15cdb754fbb10d"
+metafile = true
+
+[[files]]
+file = "mods/simplehats.pw.toml"
+hash = "d1c7c8a79ca172c7f4adf2cd2cbe0cfaa6bcc6c1db40452488f61ea7e44f87fc"
 metafile = true
 
 [[files]]
@@ -1669,6 +1699,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
+metafile = true
+
+[[files]]
+file = "mods/sparkweave.pw.toml"
+hash = "a67545d62c8915639ff7deef7d5bd142abb713ac83bb0ff12f0af99ef44c1ad5"
 metafile = true
 
 [[files]]
