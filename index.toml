@@ -901,16 +901,6 @@ file = "datapacks/scc_rom.zip"
 hash = "26a58bd055afb6b0e7965f1cc85c279d7e41f1c0efbe6d3a832a28b608f09017"
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "179e249897d4dde4375ee394749a05d300da913f368f2a4110b8f9996e6125ed"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "08d5b42c63b13a05a5ad962fb2782126b6a1dbbd76ef383608da7e39009f8b06"
-metafile = true
-
-[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "0fbf73b1472bd451d4a26d216e1f96194a5f7dc789760865df7fedbf46bfbfdf"
 metafile = true
@@ -1635,11 +1625,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7fca1d6e1709859d156a27a45c6dfd85651f6aa87482dbd64d15cdb754fbb10d"
-metafile = true
-
-[[files]]
-file = "mods/simplehats.pw.toml"
-hash = "d1c7c8a79ca172c7f4adf2cd2cbe0cfaa6bcc6c1db40452488f61ea7e44f87fc"
 metafile = true
 
 [[files]]
