@@ -1,3 +1,5 @@
 {
-  "signingModes": {}
+  "signingModes": {
+    "170.205.24.37:25602": "NEVER"
+  }
 }

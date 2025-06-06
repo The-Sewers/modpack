@@ -1,13 +1,13 @@
 name = "Useful Luck"
-filename = "usefulluck-1.0.0.jar"
+filename = "usefulluck-1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6bcf54e2f4e4c47aff10bfa02ab6a9596bcbde0a"
+hash = "0d7f88a3305c680b2ae32552c5cb0435661ad5bf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6535425
+file-id = 6616844
 project-id = 1266808

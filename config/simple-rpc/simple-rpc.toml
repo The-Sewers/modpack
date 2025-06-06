@@ -1,0 +1,278 @@
+#General Config Section. See https://readme.firstdarkdev.xyz/simple-rpc/introduction/
+[general]
+	#The Application ID of the Discord App to use
+	applicationID = 1373502630583734402
+	#Enable/Disable the mod
+	enabled = true
+	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
+	debugging = false
+	#Enable/Disable the in game config screen. ONLY AVAILABLE WHEN CLOTH CONFIG IS INSTALLED!
+	configScreen = true
+	#Display the Icon and Pack Name in place of LargeImage from compatible launchers. DOES NOT WORK WITH CUSTOM APPS! ONLY THE DEFAULT ONE!
+	launcherIntegration = false
+	#Internal Version Number. NO TOUCHY!
+	version = 18
+
+#The Game Loading event
+[init]
+	#Enable/Disable the Game Loading Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Starting the sewers.cc journey"
+	#The second line of text under the app name
+	state = "Game Loading..."
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["icon"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "sewers.cc | Modded SMP"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "Prepare for adventure!"
+	#The buttons to display on Discord
+	[[init.buttons]]
+		#The text that gets displayed on the button
+		label = "join sewers.cc"
+		#The URL to open when the button is clicked
+		url = "https://sewers.cc/play"
+
+#The Main Menu event
+[main_menu]
+	#Enable/Disable the Main Menu Event
+	enabled = true
+	#The first line of text under the app name
+	description = "%player% is planning their next move"
+	#The seconds line of text under the app name
+	state = "Chilling in the main menu"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["icon"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "sewers.cc | Modded SMP"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods loaded"
+	#The buttons to display on Discord
+	[[main_menu.buttons]]
+		#The text that gets displayed on the button
+		label = "join sewers.cc"
+		#The URL to open when the button is clicked
+		url = "https://sewers.cc/play"
+
+#The Server List event
+[server_list]
+	#Enable/Disable the Server List Event
+	enabled = true
+	#The first line of text under the app name
+	description = "%player% is looking for sewers.cc"
+	#The second line of text under the app name
+	state = "Browsing server lists"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["icon"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "sewers.cc | Modded SMP"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods loaded"
+	#The buttons to display on Discord
+	[[server_list.buttons]]
+		#The text that gets displayed on the button
+		label = "join sewers.cc"
+		#The URL to open when the button is clicked
+		url = "https://sewers.cc/play"
+
+#The Realms Screen event
+[realms_list]
+	#Enable/Disable the Realms Screen Event
+	enabled = false
+	#The first line of text under the app name
+	description = "%player% is ignoring Realms"
+	#The second line of text under the app name
+	state = "Realms are not sewers.cc!"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["icon"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "sewers.cc | Modded SMP"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods loaded"
+	#The buttons to display on Discord
+	buttons = []
+
+#The Join Game Event
+[join_game]
+	#Enable/Disable the Join Game Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Connecting to sewers.cc"
+	#The second line of text under the app name
+	state = "Joining the adventure"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["icon"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "sewers.cc | Modded SMP"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "Almost there!"
+	#The buttons to display on Discord
+	[[join_game.buttons]]
+		#The text that gets displayed on the button
+		label = "join sewers.cc"
+		#The URL to open when the button is clicked
+		url = "https://sewers.cc/play"
+
+#The Single Player Event
+[single_player]
+	#Enable/Disable the Single Player Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Exploring %world% (solo)"
+	#The second line of text under the app name
+	state = "Venturing alone"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["icon"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "sewers.cc | Singleplayer"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods active"
+	#The buttons to display on Discord
+	[[single_player.buttons]]
+		#The text that gets displayed on the button
+		label = "join sewers.cc"
+		#The URL to open when the button is clicked
+		url = "https://sewers.cc/play"
+
+#The Multi Player Event
+[multi_player]
+	#Enable/Disable the Multi Player Event
+	enabled = true
+	#The first line of text under the app name
+	description = "Delving into sewers.cc"
+	#The second line of text under the app name
+	state = "Playing with %players% brave adventurers"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["icon"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "sewers.cc | Modded SMP"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods strong"
+	#The buttons to display on Discord
+	[[multi_player.buttons]]
+		#The text that gets displayed on the button
+		label = "join sewers.cc"
+		#The URL to open when the button is clicked
+		url = "https://sewers.cc/play"
+
+#The Realms Game Event
+[realms]
+	#Enable/Disable the Realms Game Event
+	enabled = false
+	#The first line of text under the app name
+	description = "Accidentally on a Realm"
+	#The second line of text under the app name
+	state = "Still dreaming of sewers.cc"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["icon"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "sewers.cc | Modded SMP"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "Where is sewers.cc?"
+	#The buttons to display on Discord
+	buttons = []
+
+#Fallback event for disabled events
+[generic]
+	#The first line of text under the app name
+	description = "Playing Modded Minecraft"
+	#The second line of text under the app name
+	state = "Thinking about sewers.cc"
+	#The Asset ID of the image to display as the large image
+	largeImageKey = ["icon"]
+	#The text that gets displayed when the large image is hovered
+	largeImageText = "sewers.cc | Modded SMP"
+	#The Asset ID of the image to display as the small image
+	smallImageKey = ["mclogo"]
+	#The text that gets displayed when the small image is hovered
+	smallImageText = "%mods% mods loaded"
+	#The buttons to display on Discord
+	[[generic.buttons]]
+		#The text that gets displayed on the button
+		label = "join sewers.cc"
+		#The URL to open when the button is clicked
+		url = "https://sewers.cc/play"
+
+#Custom Config Variables that you can use
+[custom]
+	#Must these variables be parsed along with other variables
+	enabled = false
+	#Your custom variables to add
+	variables = []
+
+#Dimension Information Overrides
+[dimension_overrides]
+	#Allows you to override the displayed values for dimensions
+	enabled = false
+
+	#The Dimensions to override
+	[[dimension_overrides.dimensions]]
+		#The name of the Dimension/Biome to override. FORMAT: modid:dimension or modid:biome
+		name = "overworld"
+		#The first line of text under the app name
+		description = "Exploring the surface world"
+		#The second line of text under the app name
+		state = "In the Overworld"
+		#The Asset ID of the image to display as the large image
+		largeImageKey = ["icon"]
+		#The text that gets displayed when the large image is hovered
+		largeImageText = "sewers.cc | The Overworld"
+		#The Asset ID of the image to display as the small image
+		smallImageKey = ["mclogo"]
+		#The text that gets displayed when the small image is hovered
+		smallImageText = "%mods% mods strong"
+		#The buttons to display on Discord
+		buttons = []
+
+	[[dimension_overrides.dimensions]]
+		#The name of the Dimension/Biome to override. FORMAT: modid:dimension or modid:biome
+		name = "the_nether"
+		#The first line of text under the app name
+		description = "Surviving the heat"
+		#The second line of text under the app name
+		state = "In the Nether"
+		#The Asset ID of the image to display as the large image
+		largeImageKey = ["icon"]
+		#The text that gets displayed when the large image is hovered
+		largeImageText = "sewers.cc | The Nether"
+		#The Asset ID of the image to display as the small image
+		smallImageKey = ["mclogo"]
+		#The text that gets displayed when the small image is hovered
+		smallImageText = "%mods% mods strong"
+		#The buttons to display on Discord
+		buttons = []
+
+	[[dimension_overrides.dimensions]]
+		#The name of the Dimension/Biome to override. FORMAT: modid:dimension or modid:biome
+		name = "the_end"
+		#The first line of text under the app name
+		description = "Facing the dragon"
+		#The second line of text under the app name
+		state = "In The End"
+		#The Asset ID of the image to display as the large image
+		largeImageKey = ["icon"]
+		#The text that gets displayed when the large image is hovered
+		largeImageText = "sewers.cc | The End"
+		#The Asset ID of the image to display as the small image
+		smallImageKey = ["mclogo"]
+		#The text that gets displayed when the small image is hovered
+		smallImageText = "%mods% mods strong"
+		#The buttons to display on Discord
+		buttons = []

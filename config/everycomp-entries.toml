@@ -1,30 +1,6 @@
 #Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
 [types]
 
-		[types.stone_type.biomeswevegone]
-			white_sandstone = true
-			blue_sandstone = true
-			black_sandstone = true
-			purple_sandstone = true
-			pink_sandstone = true
-			windswept_sandstone = true
-			red_rock = true
-			dacite = true
-			mossy_stone = true
-			rocky_stone = true
-
-		[types.stone_type.create]
-			limestone = true
-			asurine = true
-			crimsite = true
-			ochrum = true
-			veridium = true
-			scoria = true
-			scorchia = true
-
-		[types.mud_type.biomeswevegone]
-			pale_mud = true
-
 		[types.wood_type.biomeswevegone]
 			aspen = true
 			baobab = true
@@ -188,131 +164,11 @@
 		[types.leaves_type.expandeddelight]
 			cinnamon = true
 
+		[types.leaves_type.croptopia]
+			cinnamon = true
+
 #Disables specific entries
 [entries]
-
-		[entries.stone_type.mcwroofs]
-			top_roof = true
-			lower_roof = true
-			upper_steep_roof = true
-			steep_roof = true
-			bricks_steep_roof = true
-			bricks_roof = true
-			upper_lower_roof = true
-			bricks_top_roof = true
-			attic_roof = true
-			bricks_attic_roof = true
-			roof = true
-			bricks_lower_roof = true
-			bricks_upper_steep_roof = true
-			bricks_upper_lower_roof = true
-
-		[entries.stone_type.chipped]
-			pillar = true
-			checkered_tiles = true
-			cracked_flat_tiles = true
-			weathered = true
-			smooth_column = true
-			fine_pillar = true
-			brick_bordered = true
-			smooth_inlayed = true
-			bordered = true
-			cut_column = true
-			smoothed_double_inlayed = true
-			rounded_bricks = true
-			overlapping_tiles = true
-			pillar_top = true
-			rough = true
-			loded = true
-			massive_bricks = true
-			thick_inlayed = true
-			tiny_brick_bordered = true
-			pointed_dripstone = true
-			mini_tiles = true
-			angry = true
-			vertical_cut = true
-			crying = true
-			runic_carved = true
-			stacked_bricks = true
-			inscribed = true
-			polished = true
-			cut_blank = true
-			blank_carving = true
-			tiny_layered_slabs = true
-			flat_tiles = true
-			inlayed = true
-			trodden = true
-			tiled = true
-			creeper_carving = true
-			cracked_bricks = true
-			pillar_bricks = true
-			cracked_disordered_bricks = true
-			ornate_pillar = true
-			tiled_column = true
-			eroded = true
-			tiled_bordered = true
-			simple_pillar = true
-			scales = true
-			vertical_disordered_bricks = true
-			sad = true
-			glad = true
-			unamused = true
-			edged_bricks = true
-			cobbled = true
-			tiny_layered_bricks = true
-			bricks = true
-			layed_bricks = true
-			spider_carving = true
-			sanded = true
-			engraved = true
-			offset_bricks = true
-			small_bricks = true
-			duh = true
-			smooth_ringed = true
-			curly_pillar = true
-			etched_bricks = true
-			spiraled = true
-			prismal_remnants = true
-			tiny_bricks = true
-			carved = true
-
-		[entries.stone_type.create]
-			cut_wall = true
-			cut_brick_slab = true
-			polished_cut_slab = true
-			small_brick_wall = true
-			cut = true
-			cut_stairs = true
-			small_brick_stairs = true
-			cut_bricks = true
-			small_bricks = true
-			layered = true
-			cut_brick_wall = true
-			pillar = true
-			cut_brick_stairs = true
-			polished_cut_wall = true
-			cut_slab = true
-			polished_cut = true
-			small_brick_slab = true
-			polished_cut_stairs = true
-
-		[entries.stone_type.mcwstairs]
-			mossy_brick_railing = true
-			mossy_brick_balcony = true
-			brick_terrace_stairs = true
-			mossy_brick_loft_stairs = true
-			mossy_brick_platform = true
-			brick_railing = true
-			brick_compact_stairs = true
-			brick_balcony = true
-			brick_platform = true
-			mossy_brick_skyline_stairs = true
-			mossy_brick_compact_stairs = true
-			mossy_brick_bulk_stairs = true
-			brick_skyline_stairs = true
-			brick_bulk_stairs = true
-			brick_loft_stairs = true
-			mossy_brick_terrace_stairs = true
 
 		[entries.wood_type.chipped]
 			fine_planks = true
@@ -532,3 +388,8 @@
 			half_drawers_4 = true
 			half_drawers_2 = true
 			trim = true
+
+		[entries.wood_type.beautify]
+			picture_frame = true
+			blinds = true
+			trellis = true

@@ -125,7 +125,7 @@ disabled_generic_methods = []
 		#This rule prevents computers accessing internal services, and is strongly recommended.
 		host = "$private"
 		#Deny all requests to private IP addresses.
-		action = "deny"
+		action = "allow"
 	#A list of rules which control behaviour of the "http" API for specific domains or
 	#IPs. Each rule matches against a hostname and an optional port, and then sets several
 	#properties for the request.  Rules are evaluated in order, meaning earlier rules override
